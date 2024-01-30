@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<p> <a href="https://www.linkedin.com/in/ekaterinagerman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
+### My name is Ekaterina German and now I`m currently looking for a new job in the Data / Product / Financial Analytics area.   
+
+### I have 7-years working experience in the Finance and Accounting area and worked at such companies as Ernst & Young, 3M Russia and Johnson & Johnson where grew from Junior to Senior position and upgraded my professional skills in US GAAP, SAP, Power BI, Power Query, Microsoft Excel (hard formulas and macros), Access, QlickView and BI Databases. 
+
+### While studying at Data Analyst at Yandex.Practicum I have learnt such tools as PostgreSQL, MySQL, Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn and so on and executed the practical projects which you can see here in the Yandex_Practicum_Data_Analyst_Projects repository. 
+
+### Now I see my further career in the Data / Product / Financial Analytics area.
+
 <!--
 **ekaterinagerman/ekaterinagerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
